@@ -1,4 +1,4 @@
 # git_files
 file which I used to learn
 
-https://www.linkedin.com/damodhar918/
+https://www.linkedin.com/in/damodhar918/
